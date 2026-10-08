@@ -37,6 +37,9 @@ yarn-error.log
 testem.log
 /typings
 
+# Secrets (copy src/environments/desmos-key.example.ts to create it)
+/src/environments/desmos-key.ts
+
 # System files
 .DS_Store
 Thumbs.db
